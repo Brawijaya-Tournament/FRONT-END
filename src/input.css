@@ -1,0 +1,9 @@
+
+
+@font-face {
+  font-family: "Silverkids";
+  src: url("../font/Silverkids.otf");
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
